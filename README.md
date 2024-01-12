@@ -1,4 +1,6 @@
 ### 안녕하세요 최현성입니다.
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 <!--
 **ChoiHyeonSeong/ChoiHyeonSeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
