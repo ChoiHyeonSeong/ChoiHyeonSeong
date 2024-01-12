@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### 안녕하세요 최현성입니다.
 <!--
 **ChoiHyeonSeong/ChoiHyeonSeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
